@@ -1,0 +1,67 @@
+* {
+    margin-top: 24px;
+    padding: 0;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body {
+    background-color: #3a5c4c;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.container {
+    background: #b4a68e;
+    border-radius: 12px;
+    padding: 0;
+    width: 90%;
+    margin: auto;
+    box-shadow: 5px 5px 10px #000;
+    text-align: center;
+}
+
+header {
+    padding: 0;
+    text-align: center;
+    color: #000;
+}
+
+form {
+    padding: 0;
+}
+
+form input {
+    font-size: 16px;
+    background-color: #aecabd;
+    border: none;
+    padding: 8px;
+}
+
+form button {
+    background-color: #648285;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor:pointer;
+    padding: 8px;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    border-bottom: 2px solid #000;
+    padding: 1px;
+    font-size: 18px;
+}
+
+table td {
+    padding: 8px 0;
+    text-align: center;
+    font-size: 18px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#nome, #numero{
+    color: rgba(0, 0, 0, 0.2);
+}
